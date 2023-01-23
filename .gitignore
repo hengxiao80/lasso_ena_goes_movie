@@ -1,0 +1,9 @@
+__pycache__/
+data/
+.vscode/
+figs/
+*.log
+*.mp4
+*.gif
+*.tar
+*.gz
